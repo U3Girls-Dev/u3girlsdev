@@ -49,3 +49,7 @@ configuration relevant for your application.
 The app skeleton uses a subset of [Foundation](http://foundation.zurb.com/) CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
+
+### Commitテスト用
+README.mdの編集まできたら、下記に自分の名前を書いてください。
+- まえだ
